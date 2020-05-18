@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card Counter</title>
+    <style>
+        body{
+            font-weight: bolder;
+            font-size: 2em;
+        }
+        #main{
+            background-color: darkgrey;
+            color:white;
+        }
+        #card-list{
+            background-color: purple;
+            color:orange;
+        }
+        .colorful{
+            text-align: center;
+            margin: 1em;
+            font-size: 1.2em;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="main">
+        <h1>Welcome to Card Counter</h1>
+        <label for="card-name"> Card Name: </label>
+        <input type="text" name="card-name" id="card-name" oninput="searchList(event)">
+    </div>
+        <ul id="card-list"></ul>
+    
+    <input type="number" name="new-card-number" id="new-card-number">
+    <input type="button" value="Add Card" onclick="addCard(event)">
+    <script src="main.js"></script>
+</body>
+</html>
