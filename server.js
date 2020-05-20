@@ -9,26 +9,31 @@ app.get(("/"), (req, res)=>{
     res.send("./public/index.html")
 });
 app.get("/checkCards", (req, res)=>{
-    let cardList = fs.readFileSync("./cardFiles/cards.json", "UTF-8");
+    let cardList = fs.readFileSync("./filteredCards.json", "UTF-8");
     res.send(cardList);
 });
 app.post("/addCard", (req, res)=>{
-    let cards = fs.readFileSync("./cardFiles/greenCards.json", "UTF-8")
-    cards = JSON.parse(cards)
-    cards[req.body.cardName.toLowerCase()] = parseInt(req.body.number);
+    console.log(req.body);
+    let {cardName, quantity, foil, colors} = req.body;
+    let cards = fs.readFileSync("./filteredCards.json", "UTF-8");
+    cards = JSON.parse(cards);
+    cards.cards[cardName.toLowerCase()] = {quantity:Number(quantity), foil:foil, saleValue: null, colors: colors}
     cards = JSON.stringify(cards);
-    fs.writeFileSync("./cardFiles/greenCards.json", cards);
-    res.send(cards)
+    fs.writeFileSync("./filteredCards.json", cards);
+    res.send(cards);
 })
 app.put("/updateCard", (req, res)=>{
-    let cards = fs.readFileSync("./cardFiles/greenCards.json", "UTF-8");
+    console.log(req.body);    
+    let cards = fs.readFileSync("./filteredCards.json", "UTF-8");
     let card = Object.keys(req.body)[0];
     cards = JSON.parse(cards);
-    cards[card.toLowerCase()] = parseInt(req.body[card]);
+    console.log(card);
+    req.body[card].saleValue = null;
+    cards[card.toLowerCase()] = req.body[card];
     cards = JSON.stringify(cards);
-    fs.writeFileSync("./cardFiles/greenCards.json", cards)
-    res.send(cards)
+    fs.writeFileSync("./testFile.json", cards)
+    res.send(cards);
 })
 app.listen(port, ()=>{
     console.log(`Listening on port: ${port}`);
-})
+});

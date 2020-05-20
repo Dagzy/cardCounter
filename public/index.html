@@ -1,40 +1,103 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Card Counter</title>
-    <style>
-        body{
-            font-weight: bolder;
-            font-size: 2em;
-        }
-        #main{
-            background-color: darkgrey;
-            color:white;
-        }
-        #card-list{
-            background-color: purple;
-            color:orange;
-        }
-        .colorful{
-            text-align: center;
-            margin: 1em;
-            font-size: 1.2em;
-        }
-
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <div id="main">
+    <div class="bg" id="main">
         <h1>Welcome to Card Counter</h1>
         <label for="card-name"> Card Name: </label>
         <input type="text" name="card-name" id="card-name" oninput="searchList(event)">
+        <span>
+            <button onclick="showFilters()">Filters</button>
+        </span>
+        <ul id="filter-list" class="hidden">
+            <li>
+                <input class="filter" type="checkbox" id="foil-filter" />
+                <label for="">Foil</label>
+            </li>
+            <li>
+                <input class="filter" type="checkbox" id="black-filter" />
+                <label for="">Black</label>
+            </li>
+            <li>
+                <input class="filter" type="checkbox" id="blue-filter" />
+                <label for="">Blue</label>
+            </li>
+            <li>
+                <input class="filter" type="checkbox" id="colorless-filter" />
+                <label for="">Colorless</label>
+            </li>
+            <li>
+                <input class="filter" type="checkbox" id="gold-filter" />
+                <label for="">Gold</label>
+            </li>
+            <li>
+                <input class="filter" type="checkbox" id="green-filter" />
+                <label for="">Green</label>
+            </li>
+            <li>
+                <input class="filter" type="checkbox" id="land-filter" />
+                <label for="">Land</label>
+            </li>
+            <li>
+                <input class="filter" type="checkbox" id="red-filter" />
+                <label for="">Red</label>
+            </li>
+            <li>
+                <input class="filter" type="checkbox" id="white-filter" />
+                <label for="">White</label>
+            </li>
+        </ul>
     </div>
-        <ul id="card-list"></ul>
-    
-    <input type="number" name="new-card-number" id="new-card-number">
-    <input type="button" value="Add Card" onclick="addCard(event)">
+    <div>
+        <ul class="bg" id="card-list"></ul>
+    </div>
+    <div class="bg">
+        <p>How Many?</p>
+        <input type="number" name="new-card-number" id="new-card-number" />
+    </div>
+    <div class="bg">
+        <span class="bg">
+            <label for="new-card-foil">Foil?</label>
+            <input type="checkbox" class="reset" id="new-card-foil">
+        </span>
+        <span class="bg">
+            <label for="black">Black</label>
+            <input type="checkbox" class="color-palette reset" id="black">
+        </span>
+        <span class="bg">
+            <label for="blue">Blue</label>
+            <input type="checkbox" class="color-palette reset" id="blue">
+        </span>
+        <span class="bg">
+            <label for="colorless">Colorless</label>
+            <input type="checkbox" class="color-palette reset" id="colorless">
+        </span>
+        <span class="bg">
+            <label for="green">Green</label>
+            <input type="checkbox" class="color-palette reset" id="green">
+        </span>
+        <span class="bg">
+            <label for="land">Land</label>
+            <input type="checkbox" class="color-palette reset" id="land">
+        </span>
+        <span class="bg">
+            <label for="red">Red</label>
+            <input type="checkbox" class="color-palette reset" id="red">
+        </span>
+        <span class="bg">
+            <label for="white">White</label>
+            <input type="checkbox" class="color-palette reset" id="white">
+        </span>
+    </div>
+    <input class="bg" type="button" value="Add Card" onclick="addCard(event)">
     <script src="main.js"></script>
 </body>
+
 </html>

@@ -1,0 +1,68 @@
+body {
+    font-weight: bolder;
+    /* position: relative; */
+}
+ul{
+    list-style-type: none;
+}
+#main {
+    background-color: darkgrey;
+    color: white;
+    padding: 1em;
+}
+#card-list {
+    background-color: darkgrey;
+    font-size: 1.4em;
+}
+.colorful {
+    align-content: center;
+    margin: 1em;
+    font-size: 1.3em;
+}
+.quantity {
+    text-align: center;
+    margin: 1em;
+    font-size: 1.1em;
+}
+.inline{
+    display: inline;
+}
+.inline > *{
+    display: inline;
+    padding: 1em;
+}
+.hidden{
+    display: none;
+}
+#filter-list{
+    position: absolute;
+    text-align: left;
+    left: 60%;
+    top:.2em;
+    background-color: rgba(0, 0, 139, 0.9);
+    border: 4px solid black;
+}
+.card-item{
+    margin: 5px 0 5px 10vw;
+    background-color: darkblue;
+    color: white;
+    width: 80vw;
+}
+.bg{
+    text-align: center;
+    background-color: darkgrey;
+    color: white;
+    margin: 1em;
+    padding: 1em;
+    /* border: 1px solid black; */
+}
+input.bg{
+    margin-left: 45vw;
+    width: 10vw;
+}
+ul.bg{
+    padding: 0;
+}
+#filter-list > li {
+    margin: 0 8px 0 -32px;
+}
