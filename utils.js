@@ -4,10 +4,11 @@ cards = JSON.parse(cards);
 constructParent(cards)
 constructArrays(cards)
 cards = JSON.stringify(cards);
-fs.writeFileSync("./filteredCards.json", cards)
+// fs.writeFileSync("./filteredCards.json", cards)
 
-
+//Pretty sure this is all trash, but ya know, can't get rid of anything!
 function constructParent(cardList) {
+    //deprecated - worked when it needed to, might need it again, but doubt it
     for (const color in cardList) {
         if (color !== "cards") {
             console.log("working", cardList[color]);
@@ -27,6 +28,7 @@ function constructParent(cardList) {
     }
 }
 function colorPalette(color) {
+    //deprecated - kinda just bad code too
     let colors = [];
     switch (color) {
         case "artifactsAndArtifactCreatures":
@@ -57,8 +59,9 @@ function colorPalette(color) {
     return colors
 }
 function constructArrays(cardList) {
-    for (const key in cardList.cards) {
-        let color = cardList.cards[key].colors[0]
-        cardList[color].push(key)
+    //deprecated as of gold card refactoring
+    for (const card in cardList.cards) {
+        let color = cardList.cards[card].colors[0]
+        cardList[color].push(card)
     }
 }
