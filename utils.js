@@ -20,9 +20,37 @@ function updateColorArrays(filters, card) {
     }
     return filters;
 }
+function deleteCard(cardName){
+    
+    return new Promise((resolve, reject) => {
+        fs.readFile("./filteredCards.json", "UTF-8", (err, file)=>{
+            let cardList = JSON.parse(file),
+                updatedList;          
+            if(err){
+                reject({message:err})
+            }
+            if(cardList.cards.hasOwnProperty(cardName)){  
+                cardList.cards[cardName] = null;
+                delete cardList.cards[cardName];
+                for (const filter in cardList.filterArrays) {
+                    let cardIndex = cardList.filterArrays[filter].indexOf(cardName);
+                    cardIndex > -1 ? cardList.filterArrays[filter].splice(cardIndex, 1) : null;
+                }
+            }
+            updatedList = JSON.stringify(cardList)
+            fs.writeFile("./filteredCards.json", updatedList, (err, file)=>{
+                cardList.message = `${cardName} successfully deleted.`
+                cardList = JSON.stringify(cardList)
+                resolve(cardList)
+            })
+        })
+    })
+}
+
 module.exports = {
     goldCard : goldCard,
-    updateColorArrays: updateColorArrays
+    updateColorArrays: updateColorArrays,
+    deleteCard : deleteCard
 }
 
 // fs.writeFileSync("./filteredCards.json", cards)

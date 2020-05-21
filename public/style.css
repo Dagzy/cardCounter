@@ -6,13 +6,13 @@ ul{
     list-style-type: none;
 }
 #main {
-    background-color: gray;
+    background-color: rgb(120, 10, 10);
     color: white;
     padding: 1em;
 }
 #card-list {
-    background-color: gray;
-    font-size: 1.4em;
+    background-color: rgb(120, 10, 10);
+    font-size: 1.3em;
 }
 .colorful {
     align-content: center;
@@ -21,15 +21,17 @@ ul{
 }
 .quantity {
     text-align: center;
-    margin: 1em;
-    font-size: 1.1em;
+    margin: 0 .5em;
+    
 }
 .inline{
     display: inline;
 }
 .inline > *{
     display: inline;
-    padding: 1em;
+    padding: .5em;
+    margin: .1em;
+    border: 1px solid black;
 }
 .hidden{
     display: none;
@@ -39,18 +41,18 @@ ul{
     text-align: left;
     left: 60%;
     top:.2em;
-    background-color: rgba(0, 0, 139, 0.9);
+    background-color: rgba(0, 0, 139, 1);
     border: 4px solid black;
 }
 .card-item{
     margin: 5px 0 5px 10vw;
-    background-color: darkblue;
+    background-image: linear-gradient(to right, rgb(120, 10, 10), rgb(10, 10, 10),rgb(10, 10, 10),rgb(10, 10, 10), rgb(120, 10, 10));
     color: white;
     width: 80vw;
 }
 .bg{
     text-align: center;
-    background-color: gray;
+    background-color: rgb(120, 10, 10);
     color: white;
     margin: 1em;
     padding: 1em;
@@ -66,4 +68,18 @@ ul.bg{
 }
 #filter-list > li {
     margin: 0 8px 0 -32px;
+}
+.btn{
+    text-align: center;
+    background-color: gray;
+    color: white;
+    margin: 1em;
+    padding: 1em;
+}
+.focused{
+    border: 1px solid white;
+}
+#new-card-number{
+    text-align: center;
+    font-size: 1.5em;
 }
