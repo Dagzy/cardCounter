@@ -1,3 +1,4 @@
+'use strict';
 const list = document.getElementById("card-list");
 let cardList;
 let filteredCards = {};
@@ -10,11 +11,11 @@ Array
         e.addEventListener("change", setFilter)
     });
 function getCardListFromServer() {
-    fetch("http://localhost:9001/checkCards")
+    fetch("http://localhost:9001/cardRoute/checkCards")
         .then(res => res.json())
         .then(data => {
             setCardList(data);
-        })
+        });
 }
 function setCardList(obj) {
     cardList = obj;
@@ -43,42 +44,75 @@ function searchList(e) {
     }
     drawCardList(output);
 }
+function createCardQuantityElement(card, props){
+    const quantity = document.createElement("input");
+    quantity.type = "number";
+    quantity.id = `${card}-amount`;
+    quantity
+    .classList
+    .add("quantity");
+    quantity.value = props.quantity;
+    return quantity
+}
+function createCardFoilElement(cardName, card){
+    let foil = document.createElement("input");
+    foil.type = "checkbox";
+    foil.checked = card.foil;
+    foil.id = cardName + "-foil"
+    return foil;
+}
+function createFoilLabelElement(){
+    let foilLabel = document.createElement("label");
+    foilLabel.innerText = "Foil";
+    return foilLabel;
+}
+function createSaveButtonElement(card){
+    const save = document.createElement("input");
+    save.type = "submit"
+    save.value = "Save";
+    save.addEventListener("click", updateCard);
+    save.id = card;
+    save
+    .classList
+    .add("colorful");
+    return save;
+}
+function createItem(cardProps){
+    const {text, amount, foilLabel, foil, colors, save} = cardProps;
+    const item = document.createElement("li");
+    item
+    .classList
+    .add("card-item")
+    item.innerText = text;
+    item.appendChild(amount);
+    item.appendChild(foilLabel);
+    item.appendChild(foil);
+    item.appendChild(colors)
+    item.appendChild(save);
+
+    return item;
+}
 function drawCardList(cards) {
     list.innerHTML = "";
     for (const card in cards) {
-        const item = document.createElement("li"),
-            amount = document.createElement("input"),
-            save = document.createElement("input"),
-            foil = document.createElement("input"),
-            foilLabel = document.createElement("label");
-        foil.type = "checkbox";
-        foil.checked = cards[card].foil;
-        foil.id = card + "-foil"
-        foilLabel.innerText = "Foil";
-        save.type = "submit"
-        save.value = "Save";
-        save.addEventListener("click", updateCard);
-        save.id = card;
-        amount.type = "number";
-        amount.id = card + "-amount";
-        amount
-            .classList
-            .add("quantity");
-        save
-            .classList
-            .add("colorful");
-        item.innerText = card;
-        amount.value = cards[card].quantity;
-        item.appendChild(amount);
-        item.appendChild(foilLabel);
-        item.appendChild(foil);
-        item.appendChild(makePalette(card, cards[card].colors))
-        item.appendChild(save);
-        item
-            .classList
-            .add("card-item")
+        const itemParams = {
+                text : card,
+                amount : createCardQuantityElement(card, cards[card]),
+                foilLabel : createFoilLabelElement(),
+                foil : createCardFoilElement(card, cards[card]),
+                colors : makePalette(card, cards[card].colors),
+                save : createSaveButtonElement(card)
+            },
+            item = createItem(itemParams)
         list.appendChild(item);
     }
+}
+function makeItem(...props){
+    const item = document.createElement("li");
+    for (const props in props) {
+        
+    }
+
 }
 function makePalette(cardName, colors) {
     const palette = [
@@ -102,7 +136,6 @@ function makePalette(cardName, colors) {
             .add("update-color");
         box.dataset.color = color;
         box.dataset.card = cardName;
-        box.addEventListener("change", updateColors)
         if (colors.includes(color)) {
             box.checked = true;
         }
@@ -110,15 +143,15 @@ function makePalette(cardName, colors) {
         div.appendChild(box);
         container
             .classList
-            .add("inline")
+            .add("inline");
         container.appendChild(div);
     })
     return container;
 }
 function addCard(e) {
     const cardName = document
-            .getElementById("card-name")
-            .value,
+        .getElementById("card-name")
+        .value,
         cardNumber = document
             .getElementById("new-card-number")
             .value,
@@ -136,13 +169,13 @@ function addCard(e) {
             foil: cardFoil,
             colors: cardColors
         }
-        fetch("http://localhost:9001/addCard", {
+        fetch("http://localhost:9001/cardRoute/addCard", {
             method: "post",
             headers: {
                 "Content-Type": "application/json"
             },
-                body: JSON.stringify(payload)
-            })
+            body: JSON.stringify(payload)
+        })
             .then(res => res.json())
             .then(data => {
                 setCardList(data);
@@ -154,8 +187,8 @@ function addCard(e) {
 }
 function updateCard(e) {
     const cardAmount = document
-            .getElementById(e.target.id + "-amount")
-            .value,
+        .getElementById(e.target.id + "-amount")
+        .value,
         cardFoil = document
             .getElementById(e.target.id + "-foil")
             .checked,
@@ -170,15 +203,13 @@ function updateCard(e) {
                 colors: cardColors
             }
         }
-    console.log(cardColors);
-
-    fetch("http://localhost:9001/updateCard", {
+    fetch("http://localhost:9001/cardRoute/updateCard", {
         method: "PUT",
         headers: {
             "Content-Type": "application/json"
         },
-            body: JSON.stringify(payload)
-        })
+        body: JSON.stringify(payload)
+    })
         .then(res => res.json())
         .then(data => {
             setCardList(data);
@@ -215,7 +246,8 @@ function setFilter(e) {
     let filter = e
         .target
         .id
-        .slice(0, -7)
+        .slice(0, -7),
+        { filterArrays } = cardList;
     filters.indexOf(filter) !== -1
         ? filters.splice(filters.indexOf(filter), 1)
         : filters.push(filter);
@@ -225,14 +257,10 @@ function setFilter(e) {
     filters.map((filter) => {
         filteredList = [
             ...filteredList,
-            ...cardList[filter]
+            ...filterArrays[filter]
         ];
     });
     filteredList.map((card) => {
         filteredCards[card] = cardList.cards[card];
     });
-}
-function updateColors(e) {
-    console.log(e.target);
-
 }

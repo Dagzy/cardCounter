@@ -1,9 +1,30 @@
+'use strict';
 const fs = require('fs')
-let cards = fs.readFileSync("./cardObject.json", "UTF-8");
-cards = JSON.parse(cards);
-constructParent(cards)
-constructArrays(cards)
-cards = JSON.stringify(cards);
+// let cards = fs.readFileSync("./cardObject.json", "UTF-8");
+// cards = JSON.parse(cards);
+// constructParent(cards)
+// constructArrays(cards)
+// cards = JSON.stringify(cards);
+
+
+function goldCard(filterArrays, colors, cardName){
+    filterArrays.gold.includes(cardName) ? null : filterArrays.gold.push(cardName);
+    colors.forEach(color => {
+        filterArrays[color].includes(cardName) ? null : filterArrays[color].push(cardName);
+    })
+    return filterArrays;
+}
+function updateColorArrays(filters, card) {
+    for (const filter in filters) {
+        filters[filter].includes(card) ? filters[filter].splice(filters[filter].indexOf(card), 1) : null;
+    }
+    return filters;
+}
+module.exports = {
+    goldCard : goldCard,
+    updateColorArrays: updateColorArrays
+}
+
 // fs.writeFileSync("./filteredCards.json", cards)
 
 //Pretty sure this is all trash, but ya know, can't get rid of anything!
@@ -11,7 +32,6 @@ function constructParent(cardList) {
     //deprecated - worked when it needed to, might need it again, but doubt it
     for (const color in cardList) {
         if (color !== "cards") {
-            console.log("working", cardList[color]);
             if (!(cardList[color] instanceof Array)) {
                 for (const key in cardList[color]) {
                     cardList.cards[key] =
