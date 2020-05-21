@@ -107,13 +107,6 @@ function drawCardList(cards) {
         list.appendChild(item);
     }
 }
-function makeItem(...props){
-    const item = document.createElement("li");
-    for (const props in props) {
-        
-    }
-
-}
 function makePalette(cardName, colors) {
     const palette = [
         "black",
