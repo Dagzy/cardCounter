@@ -10,6 +10,10 @@ Array
     .forEach(e => {
         e.addEventListener("change", setFilter)
     });
+Array.from(document.getElementsByClassName("reset")).forEach(e => {
+    e.addEventListener("focus", (e)=>{e.target.parentElement.classList.add("focused")});
+    e.addEventListener("blur", (e)=>{e.target.parentElement.classList.remove("focused")})
+})
 function getCardListFromServer() {
     fetch("http://localhost:9001/cardRoute/checkCards")
         .then(res => res.json())
@@ -65,7 +69,7 @@ function updateCard(e) {
             .getElementById(e.target.id + "-foil")
             .checked,
         cardColors = Array
-            .from(document.querySelectorAll(`[data-card='${e.target.id}']`))
+            .from(document.querySelectorAll(`[data-card="${e.target.id}"]`))
             .filter(el => el.checked)
             .map(el => el.dataset.color),
         payload = {
