@@ -1,1 +1,2303 @@
-{"cards":{"delirium":{"quantity":4,"foil":false,"colors":["black","red"],"saleValue":null},"putrid warrior":{"quantity":3,"foil":false,"colors":["black","white"],"saleValue":null},"terminate":{"quantity":2,"foil":false,"colors":["black","red"],"saleValue":null},"segmented wurm":{"quantity":3,"foil":false,"colors":["green","red"],"saleValue":null},"kaervek's purge":{"quantity":4,"foil":false,"colors":["black","red"],"saleValue":null},"llanowar dead":{"quantity":2,"foil":false,"colors":["black","green"],"saleValue":null},"scarwood goblins":{"quantity":2,"foil":false,"colors":["green","red"],"saleValue":null},"soul link":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","white"]},"hymn of rebirth":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","white"]},"triad of fates":{"quantity":3,"foil":false,"colors":["black","white"],"saleValue":null},"chronicler of heroes":{"quantity":5,"foil":false,"colors":["green","white"],"saleValue":null},"selesnya charm":{"quantity":2,"foil":false,"colors":["green","white"],"saleValue":null},"alive || well":{"quantity":3,"foil":false,"colors":["green","white"],"saleValue":null},"death grasp":{"quantity":2,"foil":false,"colors":["black","white"],"saleValue":null},"obzedat's aid":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","white"]},"sin collector":{"quantity":2,"foil":false,"colors":["black","white"],"saleValue":null},"izzet staticaster":{"quantity":2,"foil":false,"colors":["blue","red"],"saleValue":null},"courser's accord":{"quantity":9,"foil":false,"colors":["green","white"],"saleValue":null},"zhur-taa swine":{"quantity":3,"foil":false,"colors":["green","red"],"saleValue":null},"kingpin's pet":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","white"]},"grisly salvage":{"quantity":6,"foil":false,"colors":["black","green"],"saleValue":null},"trestle troll":{"quantity":2,"foil":false,"colors":["black","green"],"saleValue":null},"primal visitation":{"quantity":2,"foil":false,"colors":["green","red"],"saleValue":null},"skull rend":{"quantity":2,"foil":false,"colors":["black","red"],"saleValue":null},"sluiceway scorpion":{"quantity":5,"foil":false,"colors":["black","green"],"saleValue":null},"common bond":{"quantity":6,"foil":false,"colors":["green","white"],"saleValue":null},"drown in filth":{"quantity":2,"foil":false,"saleValue":null,"colors":["black","green"]},"consume strength":{"quantity":4,"foil":false,"colors":["black","green"],"saleValue":null},"yavimaya barbarian":{"quantity":3,"foil":false,"colors":["green","red"],"saleValue":null},"jarad, golgari lich lord":{"quantity":2,"foil":false,"colors":["black","green"],"saleValue":null},"deadbridge chant":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","green"]},"ashen rider":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","white"]},"pharika, god of affliction":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","green"]},"fleecemane lion":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","white"]},"vhati il-dal":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","green"]},"fires of yavimaya":{"quantity":2,"foil":false,"colors":["green","red"],"saleValue":null},"voracious cobra":{"quantity":3,"foil":false,"saleValue":null,"colors":["green","red"]},"destructive revelry":{"quantity":4,"foil":false,"colors":["green","red"],"saleValue":null},"feral animist":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","red"]},"skarrg guildmage":{"quantity":2,"foil":false,"colors":["green","red"],"saleValue":null},"rot farm skeleton":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","green"]},"vitu-ghazi guildmage":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","white"]},"treasured find":{"quantity":2,"foil":false,"colors":["black","green"],"saleValue":null},"rites of reaping":{"quantity":3,"foil":false,"colors":["black","green"],"saleValue":null},"putrefy":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","green"]},"wax || wane":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","white"]},"risen sanctuary":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","white"]},"slitherhead":{"quantity":2,"foil":false,"colors":["black","green"],"saleValue":null},"akroan hoplite":{"quantity":2,"foil":false,"colors":["red","white"],"saleValue":null},"truefire paladin":{"quantity":1,"foil":false,"saleValue":null,"colors":["red","white"]},"armed || dangerous":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","red"]},"ground assault":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","red"]},"zhur-taa druid":{"quantity":3,"foil":false,"colors":["green","red"],"saleValue":null},"reap what is sown":{"quantity":2,"foil":false,"saleValue":null,"colors":["green","white"]},"showstopper":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","red"]},"rakdos charm":{"quantity":3,"foil":false,"colors":["black","red"],"saleValue":null},"ragemonger":{"quantity":3,"foil":false,"colors":["black","red"],"saleValue":null},"down || dirty":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","green"]},"korozda guildmage":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","green"]},"sterling grove":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","white"]},"dark heart of the wood":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","green"]},"heroes' reunion":{"quantity":2,"foil":false,"colors":["green","white"],"saleValue":null},"call of the conclave":{"quantity":6,"foil":false,"colors":["green","white"],"saleValue":null},"kragma warcaller":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","red"]},"burning-tree emissary":{"quantity":5,"foil":false,"colors":["green","red"],"saleValue":null},"lotleth troll":{"quantity":5,"foil":false,"colors":["black","green"],"saleValue":null},"maw of the obzedat":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","white"]},"rakdos cackler":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","red"]},"golgari charm":{"quantity":5,"foil":false,"colors":["black","green"],"saleValue":null},"pharika's mender":{"quantity":3,"foil":false,"colors":["black","green"],"saleValue":null},"centaur healer":{"quantity":5,"foil":false,"colors":["green","white"],"saleValue":null},"hussar patrol":{"quantity":5,"foil":false,"colors":["blue","white"],"saleValue":null},"search warrant":{"quantity":6,"foil":false,"colors":["blue","white"],"saleValue":null},"chemister's trick":{"quantity":3,"foil":false,"colors":["blue","red"],"saleValue":null},"essence backlash":{"quantity":5,"foil":false,"colors":["blue","red"],"saleValue":null},"deputy of acquittals":{"quantity":3,"foil":false,"colors":["blue","white"],"saleValue":null},"psychic strike":{"quantity":4,"foil":false,"colors":["black","blue"],"saleValue":null},"pilfered plans":{"quantity":2,"foil":false,"colors":["black","blue"],"saleValue":null},"tobias andrion":{"quantity":2,"foil":false,"colors":["blue","white"],"saleValue":null},"nivix cyclops":{"quantity":4,"foil":false,"colors":["blue","red"],"saleValue":null},"battlewise hoplite":{"quantity":5,"foil":false,"colors":["blue","white"],"saleValue":null},"lyev skyknight":{"quantity":5,"foil":false,"colors":["blue","white"],"saleValue":null},"dramatic rescue":{"quantity":6,"foil":false,"colors":["blue","white"],"saleValue":null},"beckon apparition":{"quantity":3,"foil":false,"colors":["black","white"],"saleValue":null},"siren of the silent song":{"quantity":2,"foil":false,"colors":["black","blue"],"saleValue":null},"jelenn sphinx":{"quantity":2,"foil":false,"colors":["blue","white"],"saleValue":null},"shipwreck singer":{"quantity":2,"foil":false,"colors":["black","blue"],"saleValue":null},"elusive krasis":{"quantity":1,"foil":false,"colors":["blue","green"],"saleValue":null},"horizon chimera":{"quantity":5,"foil":false,"colors":["blue","green"],"saleValue":null},"spellheart chimera":{"quantity":3,"foil":false,"colors":["blue","red"],"saleValue":null},"ascended lawmage":{"quantity":3,"foil":false,"colors":["blue","white"],"saleValue":null},"dromar's charm":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","blue","white"]},"new prahv guildmage":{"quantity":5,"foil":false,"colors":["blue","white"],"saleValue":null},"lim-dul's vault":{"quantity":3,"foil":false,"colors":["black","blue"],"saleValue":null},"restore the peace":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","white"]},"skymark roc":{"quantity":2,"foil":false,"colors":["blue","white"],"saleValue":null},"blistercoil weird":{"quantity":2,"foil":false,"colors":["blue","red"],"saleValue":null},"thoughtflare":{"quantity":4,"foil":false,"colors":["blue","red"],"saleValue":null},"bane alley broker":{"quantity":2,"foil":false,"colors":["black","blue"],"saleValue":null},"duskmantle guildmage":{"quantity":3,"foil":false,"colors":["black","blue"],"saleValue":null},"coerced confession":{"quantity":3,"foil":false,"colors":["black","blue"],"saleValue":null},"dinrova horror":{"quantity":5,"foil":false,"colors":["black","blue"],"saleValue":null},"woodlot crawler":{"quantity":2,"foil":false,"colors":["black","blue"],"saleValue":null},"species gorger":{"quantity":3,"foil":false,"colors":["blue","green"],"saleValue":null},"izzet charm":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","red"]},"nivix guildmage":{"quantity":2,"foil":false,"colors":["blue","red"],"saleValue":null},"dracoplasm":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","red"]},"urban evolution":{"quantity":3,"foil":false,"colors":["blue","green"],"saleValue":null},"ordered migration":{"quantity":2,"foil":false,"colors":["blue","white"],"saleValue":null},"lobotomy":{"quantity":4,"foil":false,"colors":["black","blue"],"saleValue":null},"fluxcharger":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","red"]},"far || away":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","blue"]},"give || take":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","green"]},"sleeper's robe":{"quantity":2,"foil":false,"colors":["black","blue"],"saleValue":null},"angelic shield":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","white"]},"spite || malice":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","blue"]},"stand || deliver":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","white"]},"glaciers":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","white"]},"elemental augury":{"quantity":2,"foil":false,"colors":["black","blue","red"],"saleValue":null},"malignant growth":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","green"]},"goblin test pilot":{"quantity":2,"foil":false,"colors":["blue","red"],"saleValue":null},"teleportal":{"quantity":2,"foil":false,"colors":["blue","red"],"saleValue":null},"blast of genius":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","red"]},"stalking assassin":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","blue"]},"mercurial chemister":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","red"]},"biovisionary":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","green"]},"biomass mutation":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","green"]},"kiora's follower":{"quantity":2,"foil":false,"colors":["blue","green"],"saleValue":null},"wings of aesthir":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","white"]},"growing ranks":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","white"]},"flooded woodlands":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","blue"]},"breathstealer's crypt":{"quantity":2,"foil":false,"colors":["black","blue"],"saleValue":null},"sky spirit":{"quantity":2,"foil":false,"colors":["blue","white"],"saleValue":null},"rubinia soulsinger":{"quantity":2,"foil":false,"colors":["blue","green","white"],"saleValue":null},"diabolic vision":{"quantity":3,"foil":false,"colors":["black","blue"],"saleValue":null},"wood sage":{"quantity":2,"foil":false,"colors":["blue","green"],"saleValue":null},"azorius charm":{"quantity":2,"foil":false,"colors":["blue","white"],"saleValue":null},"judge's familiar":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","white"]},"drogskol captain":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","white"]},"ephara's enlightenment":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","white"]},"goblin electomancer":{"quantity":6,"foil":false,"colors":["blue","red"],"saleValue":null},"frostburn weird":{"quantity":4,"foil":false,"colors":["blue","red"],"saleValue":null},"ayesha tanaka":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","white"]},"vassal soul":{"quantity":3,"foil":false,"colors":["blue","white"],"saleValue":null},"mortus strider":{"quantity":4,"foil":false,"colors":["black","blue"],"saleValue":null},"wings of hope":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","white"]},"prismatic boon":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","white"]},"hydroform":{"quantity":2,"foil":false,"colors":["blue","green"],"saleValue":null},"shambleshark":{"quantity":2,"foil":false,"colors":["blue","green"],"saleValue":null},"paranoid delusions":{"quantity":5,"foil":false,"colors":["black","blue"],"saleValue":null},"drakewing krasis":{"quantity":2,"foil":false,"saleValue":null,"colors":["blue","green"]},"deathcult rogue":{"quantity":6,"foil":false,"colors":["black","blue"],"saleValue":null},"beetleform mage":{"quantity":2,"foil":false,"colors":["blue","green"],"saleValue":null},"dakkon blackblade":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","blue","white"]},"efreet weaponmaster":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","red","white"]},"harbor guardian":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","white"]},"lurking informant":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","blue"]},"sivitri scarzam":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","blue"]},"arcades sabboth":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","green","white"]},"chromium":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","blue","white"]},"bioshift":{"quantity":1,"foil":false,"saleValue":null,"colors":["blue","green"]},"call of the nightwing":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","blue"]},"vraska the unseen":{"quantity":3,"foil":true,"colors":["black","green"],"saleValue":null},"sentry of the underworld":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","white"]},"anax and cymede":{"quantity":1,"foil":false,"saleValue":null,"colors":["red","white"]},"vizkopa guildmage":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","white"]},"debt to the deathless":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","white"]},"loxodon smiter":{"quantity":2,"foil":false,"colors":["green","white"],"saleValue":null},"jarad's orders":{"quantity":5,"foil":false,"saleValue":null,"colors":["black","green"]},"tymaret, the murder king":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","red"]},"gift of orzhova":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","white"]},"dryad militant":{"quantity":2,"foil":false,"saleValue":null,"colors":["green","white"]},"cryptborn horror":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","red"]},"figure of destiny":{"quantity":1,"foil":false,"saleValue":null,"colors":["red","white"]},"varolz, the scar-striped":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","green"]},"clan defiance":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","red"]},"purge the profane":{"quantity":1,"foil":false,"saleValue":null,"colors":["black","white"]},"valley rannet":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","red"]},"skyknight legionnaire":{"quantity":1,"foil":false,"saleValue":null,"colors":["red","white"]},"corpsejack menace":{"quantity":2,"foil":false,"saleValue":null,"colors":["black","green"]},"kjeldoran frostbeast":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","white"]},"pit fight":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","red"]},"spawn of rix maadi":{"quantity":6,"foil":false,"saleValue":null,"colors":["black","red"]},"martial glory":{"quantity":1,"foil":false,"saleValue":null,"colors":["red","white"]},"armored wolf-rider":{"quantity":1,"foil":false,"saleValue":null,"colors":["green","white"]},"auger spree":{"quantity":4,"foil":false,"colors":["black","red"],"saleValue":null},"sundering growth":{"quantity":5,"foil":false,"saleValue":null,"colors":["green","white"]},"rakdos shred-freak":{"quantity":4,"foil":false,"saleValue":null,"colors":["black","red"]},"golgari longlegs":{"quantity":8,"foil":false,"saleValue":null,"colors":["black","green"]}},"filterArrays":{"black":["soul link","obzedat's aid","kingpin's pet","skull rend","drown in filth","llanowar dead","kaervek's purge","terminate","delirium","putrid warrior","deadbridge chant","ashen rider","pharika, god of affliction","vhati il-dal","rot farm skeleton","putrefy","treasured find","showstopper","rakdos charm","down || dirty","slitherhead","korozda guildmage","dark heart of the wood","kragma warcaller","ragemonger","maw of the obzedat","rakdos cackler","dromar's charm","bane alley broker","shipwreck singer","woodlot crawler","far || away","spite || malice","sleeper's robe","stalking assassin","siren of the silent song","dinrova horror","coerced confession","lobotomy","flooded woodlands","elemental augury","breathstealer's crypt","diabolic vision","beckon apparition","pilfered plans","deathcult rogue","psychic strike","dakkon blackblade","lim-dul's vault","lurking informant","sivitri scarzam","chromium","paranoid delusions","mortus strider","duskmantle guildmage","call of the nightwing","sentry of the underworld","death grasp","triad of fates","vizkopa guildmage","debt to the deathless","jarad's orders","sin collector","tymaret, the murder king","gift of orzhova","cryptborn horror","varolz, the scar-striped","lotleth troll","consume strength","purge the profane","trestle troll","corpsejack menace","pharika's mender","golgari charm","jarad, golgari lich lord","vraska the unseen","rites of reaping","spawn of rix maadi","sluiceway scorpion","auger spree","rakdos shred-freak","golgari longlegs","grisly salvage"],"blue":["elusive krasis","dromar's charm","jelenn sphinx","restore the peace","bane alley broker","shipwreck singer","izzet staticaster","izzet charm","woodlot crawler","dracoplasm","fluxcharger","far || away","give || take","angelic shield","spite || malice","sleeper's robe","stand || deliver","glaciers","malignant growth","tobias andrion","goblin test pilot","thoughtflare","blast of genius","nivix guildmage","stalking assassin","siren of the silent song","mercurial chemister","biovisionary","biomass mutation","teleportal","urban evolution","ascended lawmage","dinrova horror","coerced confession","kiora's follower","species gorger","wings of aesthir","battlewise hoplite","lyev skyknight","skymark roc","lobotomy","flooded woodlands","elemental augury","ordered migration","sky spirit","judge's familiar","drogskol captain","breathstealer's crypt","diabolic vision","horizon chimera","wood sage","spellheart chimera","rubinia soulsinger","ephara's enlightenment","azorius charm","ayesha tanaka","pilfered plans","wings of hope","prismatic boon","drakewing krasis","search warrant","chemister's trick","essence backlash","nivix cyclops","hydroform","dramatic rescue","deathcult rogue","psychic strike","deputy of acquittals","goblin electomancer","dakkon blackblade","efreet weaponmaster","lim-dul's vault","harbor guardian","lurking informant","sivitri scarzam","arcades sabboth","chromium","shambleshark","frostburn weird","beetleform mage","blistercoil weird","bioshift","paranoid delusions","hussar patrol","mortus strider","duskmantle guildmage","call of the nightwing","vassal soul","new prahv guildmage"],"colorless":[],"foil":[],"gold":["soul link","hymn of rebirth","obzedat's aid","kingpin's pet","skull rend","drown in filth","scarwood goblins","llanowar dead","segmented wurm","kaervek's purge","terminate","delirium","putrid warrior","deadbridge chant","ashen rider","pharika, god of affliction","fleecemane lion","vhati il-dal","voracious cobra","fires of yavimaya","yavimaya barbarian","feral animist","rot farm skeleton","vitu-ghazi guildmage","putrefy","wax || wane","risen sanctuary","skarrg guildmage","selesnya charm","truefire paladin","armed || dangerous","ground assault","treasured find","reap what is sown","showstopper","rakdos charm","down || dirty","akroan hoplite","slitherhead","korozda guildmage","sterling grove","dark heart of the wood","heroes' reunion","kragma warcaller","ragemonger","maw of the obzedat","chronicler of heroes","destructive revelry","rakdos cackler","elusive krasis","dromar's charm","jelenn sphinx","restore the peace","bane alley broker","shipwreck singer","izzet staticaster","izzet charm","woodlot crawler","dracoplasm","fluxcharger","far || away","give || take","angelic shield","spite || malice","sleeper's robe","stand || deliver","glaciers","malignant growth","tobias andrion","goblin test pilot","thoughtflare","blast of genius","nivix guildmage","stalking assassin","siren of the silent song","mercurial chemister","biovisionary","biomass mutation","teleportal","urban evolution","ascended lawmage","dinrova horror","coerced confession","kiora's follower","species gorger","wings of aesthir","battlewise hoplite","growing ranks","lyev skyknight","skymark roc","lobotomy","flooded woodlands","elemental augury","ordered migration","sky spirit","judge's familiar","drogskol captain","breathstealer's crypt","diabolic vision","horizon chimera","wood sage","spellheart chimera","rubinia soulsinger","ephara's enlightenment","azorius charm","beckon apparition","ayesha tanaka","pilfered plans","wings of hope","prismatic boon","drakewing krasis","search warrant","chemister's trick","essence backlash","nivix cyclops","hydroform","dramatic rescue","deathcult rogue","psychic strike","deputy of acquittals","goblin electomancer","dakkon blackblade","efreet weaponmaster","lim-dul's vault","harbor guardian","lurking informant","sivitri scarzam","arcades sabboth","chromium","shambleshark","frostburn weird","beetleform mage","blistercoil weird","bioshift","paranoid delusions","hussar patrol","mortus strider","duskmantle guildmage","call of the nightwing","vassal soul","sentry of the underworld","death grasp","triad of fates","anax and cymede","vizkopa guildmage","burning-tree emissary","debt to the deathless","loxodon smiter","jarad's orders","sin collector","tymaret, the murder king","new prahv guildmage","gift of orzhova","dryad militant","cryptborn horror","figure of destiny","varolz, the scar-striped","lotleth troll","clan defiance","consume strength","purge the profane","valley rannet","trestle troll","skyknight legionnaire","corpsejack menace","call of the conclave","pharika's mender","golgari charm","kjeldoran frostbeast","jarad, golgari lich lord","vraska the unseen","rites of reaping","alive || well","zhur-taa swine","common bond","zhur-taa druid","pit fight","courser's accord","spawn of rix maadi","martial glory","armored wolf-rider","centaur healer","sluiceway scorpion","auger spree","sundering growth","rakdos shred-freak","golgari longlegs","grisly salvage","primal visitation"],"green":["hymn of rebirth","drown in filth","scarwood goblins","llanowar dead","segmented wurm","deadbridge chant","pharika, god of affliction","fleecemane lion","vhati il-dal","voracious cobra","fires of yavimaya","yavimaya barbarian","feral animist","rot farm skeleton","vitu-ghazi guildmage","putrefy","wax || wane","risen sanctuary","skarrg guildmage","selesnya charm","armed || dangerous","ground assault","treasured find","reap what is sown","down || dirty","slitherhead","korozda guildmage","sterling grove","dark heart of the wood","heroes' reunion","chronicler of heroes","destructive revelry","elusive krasis","give || take","malignant growth","biovisionary","biomass mutation","urban evolution","kiora's follower","species gorger","growing ranks","horizon chimera","wood sage","rubinia soulsinger","drakewing krasis","hydroform","arcades sabboth","shambleshark","beetleform mage","bioshift","burning-tree emissary","loxodon smiter","jarad's orders","dryad militant","varolz, the scar-striped","lotleth troll","clan defiance","consume strength","valley rannet","trestle troll","corpsejack menace","call of the conclave","pharika's mender","golgari charm","kjeldoran frostbeast","jarad, golgari lich lord","vraska the unseen","rites of reaping","alive || well","zhur-taa swine","common bond","zhur-taa druid","pit fight","courser's accord","armored wolf-rider","centaur healer","sluiceway scorpion","sundering growth","golgari longlegs","grisly salvage","primal visitation"],"land":[],"red":["skull rend","scarwood goblins","segmented wurm","kaervek's purge","terminate","delirium","voracious cobra","fires of yavimaya","yavimaya barbarian","feral animist","skarrg guildmage","truefire paladin","armed || dangerous","ground assault","showstopper","rakdos charm","akroan hoplite","kragma warcaller","ragemonger","destructive revelry","rakdos cackler","izzet staticaster","izzet charm","dracoplasm","fluxcharger","goblin test pilot","thoughtflare","blast of genius","nivix guildmage","mercurial chemister","teleportal","elemental augury","spellheart chimera","chemister's trick","essence backlash","nivix cyclops","goblin electomancer","efreet weaponmaster","frostburn weird","blistercoil weird","anax and cymede","burning-tree emissary","tymaret, the murder king","cryptborn horror","figure of destiny","clan defiance","valley rannet","skyknight legionnaire","zhur-taa swine","zhur-taa druid","pit fight","spawn of rix maadi","martial glory","auger spree","rakdos shred-freak","primal visitation"],"white":["soul link","hymn of rebirth","obzedat's aid","kingpin's pet","putrid warrior","ashen rider","fleecemane lion","vitu-ghazi guildmage","wax || wane","risen sanctuary","selesnya charm","truefire paladin","reap what is sown","akroan hoplite","sterling grove","heroes' reunion","maw of the obzedat","chronicler of heroes","dromar's charm","jelenn sphinx","restore the peace","angelic shield","stand || deliver","glaciers","tobias andrion","ascended lawmage","wings of aesthir","battlewise hoplite","growing ranks","lyev skyknight","skymark roc","ordered migration","sky spirit","judge's familiar","drogskol captain","rubinia soulsinger","ephara's enlightenment","azorius charm","beckon apparition","ayesha tanaka","wings of hope","prismatic boon","search warrant","dramatic rescue","deputy of acquittals","dakkon blackblade","efreet weaponmaster","harbor guardian","arcades sabboth","chromium","hussar patrol","vassal soul","sentry of the underworld","death grasp","triad of fates","anax and cymede","vizkopa guildmage","debt to the deathless","loxodon smiter","sin collector","new prahv guildmage","gift of orzhova","dryad militant","figure of destiny","purge the profane","skyknight legionnaire","call of the conclave","kjeldoran frostbeast","alive || well","common bond","courser's accord","martial glory","armored wolf-rider","centaur healer","sundering growth"]}}
+{
+    "cards": {
+        "delirium": {
+            "quantity": 4,
+            "foil": false,
+            "colors": [
+                "black",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "putrid warrior": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "black",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "terminate": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "segmented wurm": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "green",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "kaervek's purge": {
+            "quantity": 4,
+            "foil": false,
+            "colors": [
+                "black",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "llanowar dead": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "scarwood goblins": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "green",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "soul link": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "white"
+            ]
+        },
+        "hymn of rebirth": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "white"
+            ]
+        },
+        "triad of fates": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "black",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "chronicler of heroes": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "green",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "selesnya charm": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "green",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "alive || well": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "green",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "death grasp": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "obzedat's aid": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "white"
+            ]
+        },
+        "sin collector": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "izzet staticaster": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "courser's accord": {
+            "quantity": 9,
+            "foil": false,
+            "colors": [
+                "green",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "zhur-taa swine": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "green",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "kingpin's pet": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "white"
+            ]
+        },
+        "grisly salvage": {
+            "quantity": 6,
+            "foil": false,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "trestle troll": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "primal visitation": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "green",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "skull rend": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "sluiceway scorpion": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "common bond": {
+            "quantity": 6,
+            "foil": false,
+            "colors": [
+                "green",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "drown in filth": {
+            "quantity": 2,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        },
+        "consume strength": {
+            "quantity": 4,
+            "foil": false,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "yavimaya barbarian": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "green",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "jarad, golgari lich lord": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "deadbridge chant": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        },
+        "ashen rider": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "white"
+            ]
+        },
+        "pharika, god of affliction": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        },
+        "fleecemane lion": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "white"
+            ]
+        },
+        "vhati il-dal": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        },
+        "fires of yavimaya": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "green",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "voracious cobra": {
+            "quantity": 3,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "red"
+            ]
+        },
+        "destructive revelry": {
+            "quantity": 4,
+            "foil": false,
+            "colors": [
+                "green",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "feral animist": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "red"
+            ]
+        },
+        "skarrg guildmage": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "green",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "rot farm skeleton": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        },
+        "vitu-ghazi guildmage": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "white"
+            ]
+        },
+        "treasured find": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "rites of reaping": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "putrefy": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        },
+        "wax || wane": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "white"
+            ]
+        },
+        "risen sanctuary": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "white"
+            ]
+        },
+        "slitherhead": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "akroan hoplite": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "red",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "truefire paladin": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "red",
+                "white"
+            ]
+        },
+        "armed || dangerous": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "red"
+            ]
+        },
+        "ground assault": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "red"
+            ]
+        },
+        "zhur-taa druid": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "green",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "reap what is sown": {
+            "quantity": 2,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "white"
+            ]
+        },
+        "showstopper": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "red"
+            ]
+        },
+        "rakdos charm": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "black",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "ragemonger": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "black",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "down || dirty": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        },
+        "korozda guildmage": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        },
+        "sterling grove": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "white"
+            ]
+        },
+        "dark heart of the wood": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        },
+        "heroes' reunion": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "green",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "call of the conclave": {
+            "quantity": 6,
+            "foil": false,
+            "colors": [
+                "green",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "kragma warcaller": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "red"
+            ]
+        },
+        "burning-tree emissary": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "green",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "lotleth troll": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "maw of the obzedat": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "white"
+            ]
+        },
+        "rakdos cackler": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "red"
+            ]
+        },
+        "golgari charm": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "pharika's mender": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "centaur healer": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "green",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "hussar patrol": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "search warrant": {
+            "quantity": 6,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "chemister's trick": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "essence backlash": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "deputy of acquittals": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "psychic strike": {
+            "quantity": 4,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "pilfered plans": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "tobias andrion": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "nivix cyclops": {
+            "quantity": 4,
+            "foil": false,
+            "colors": [
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "battlewise hoplite": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "lyev skyknight": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "dramatic rescue": {
+            "quantity": 6,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "beckon apparition": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "black",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "siren of the silent song": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "jelenn sphinx": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "shipwreck singer": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "elusive krasis": {
+            "quantity": 1,
+            "foil": false,
+            "colors": [
+                "blue",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "horizon chimera": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "blue",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "spellheart chimera": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "ascended lawmage": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "dromar's charm": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "blue",
+                "white"
+            ]
+        },
+        "new prahv guildmage": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "lim-dul's vault": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "restore the peace": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "white"
+            ]
+        },
+        "skymark roc": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "blistercoil weird": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "thoughtflare": {
+            "quantity": 4,
+            "foil": false,
+            "colors": [
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "bane alley broker": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "duskmantle guildmage": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "coerced confession": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "dinrova horror": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "woodlot crawler": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "species gorger": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "blue",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "izzet charm": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "red"
+            ]
+        },
+        "nivix guildmage": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "dracoplasm": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "red"
+            ]
+        },
+        "urban evolution": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "blue",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "ordered migration": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "lobotomy": {
+            "quantity": 4,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "fluxcharger": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "red"
+            ]
+        },
+        "far || away": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "blue"
+            ]
+        },
+        "give || take": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "green"
+            ]
+        },
+        "sleeper's robe": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "angelic shield": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "white"
+            ]
+        },
+        "spite || malice": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "blue"
+            ]
+        },
+        "stand || deliver": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "white"
+            ]
+        },
+        "glaciers": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "white"
+            ]
+        },
+        "elemental augury": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "malignant growth": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "green"
+            ]
+        },
+        "goblin test pilot": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "teleportal": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "blast of genius": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "red"
+            ]
+        },
+        "stalking assassin": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "blue"
+            ]
+        },
+        "mercurial chemister": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "red"
+            ]
+        },
+        "biovisionary": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "green"
+            ]
+        },
+        "biomass mutation": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "green"
+            ]
+        },
+        "kiora's follower": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "wings of aesthir": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "white"
+            ]
+        },
+        "growing ranks": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "white"
+            ]
+        },
+        "flooded woodlands": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "blue"
+            ]
+        },
+        "breathstealer's crypt": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "sky spirit": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "rubinia soulsinger": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "green",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "diabolic vision": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "wood sage": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "azorius charm": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "judge's familiar": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "white"
+            ]
+        },
+        "drogskol captain": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "white"
+            ]
+        },
+        "ephara's enlightenment": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "white"
+            ]
+        },
+        "goblin electomancer": {
+            "quantity": 6,
+            "foil": false,
+            "colors": [
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "frostburn weird": {
+            "quantity": 4,
+            "foil": false,
+            "colors": [
+                "blue",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "ayesha tanaka": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "white"
+            ]
+        },
+        "vassal soul": {
+            "quantity": 3,
+            "foil": false,
+            "colors": [
+                "blue",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "mortus strider": {
+            "quantity": 4,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "wings of hope": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "white"
+            ]
+        },
+        "prismatic boon": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "white"
+            ]
+        },
+        "hydroform": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "shambleshark": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "paranoid delusions": {
+            "quantity": 5,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "drakewing krasis": {
+            "quantity": 2,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "green"
+            ]
+        },
+        "deathcult rogue": {
+            "quantity": 6,
+            "foil": false,
+            "colors": [
+                "black",
+                "blue"
+            ],
+            "saleValue": null
+        },
+        "beetleform mage": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "blue",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "dakkon blackblade": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "blue",
+                "white"
+            ]
+        },
+        "efreet weaponmaster": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "red",
+                "white"
+            ]
+        },
+        "harbor guardian": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "white"
+            ]
+        },
+        "lurking informant": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "blue"
+            ]
+        },
+        "sivitri scarzam": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "blue"
+            ]
+        },
+        "arcades sabboth": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "green",
+                "white"
+            ]
+        },
+        "chromium": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "blue",
+                "white"
+            ]
+        },
+        "bioshift": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "blue",
+                "green"
+            ]
+        },
+        "call of the nightwing": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "blue"
+            ]
+        },
+        "vraska the unseen": {
+            "quantity": 3,
+            "foil": true,
+            "colors": [
+                "black",
+                "green"
+            ],
+            "saleValue": null
+        },
+        "sentry of the underworld": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "white"
+            ]
+        },
+        "anax and cymede": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "red",
+                "white"
+            ]
+        },
+        "vizkopa guildmage": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "white"
+            ]
+        },
+        "debt to the deathless": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "white"
+            ]
+        },
+        "loxodon smiter": {
+            "quantity": 2,
+            "foil": false,
+            "colors": [
+                "green",
+                "white"
+            ],
+            "saleValue": null
+        },
+        "jarad's orders": {
+            "quantity": 5,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        },
+        "tymaret, the murder king": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "red"
+            ]
+        },
+        "gift of orzhova": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "white"
+            ]
+        },
+        "dryad militant": {
+            "quantity": 2,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "white"
+            ]
+        },
+        "cryptborn horror": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "red"
+            ]
+        },
+        "figure of destiny": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "red",
+                "white"
+            ]
+        },
+        "varolz, the scar-striped": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        },
+        "clan defiance": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "red"
+            ]
+        },
+        "purge the profane": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "white"
+            ]
+        },
+        "valley rannet": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "red"
+            ]
+        },
+        "skyknight legionnaire": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "red",
+                "white"
+            ]
+        },
+        "corpsejack menace": {
+            "quantity": 2,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        },
+        "kjeldoran frostbeast": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "white"
+            ]
+        },
+        "pit fight": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "red"
+            ]
+        },
+        "spawn of rix maadi": {
+            "quantity": 6,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "red"
+            ]
+        },
+        "martial glory": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "red",
+                "white"
+            ]
+        },
+        "armored wolf-rider": {
+            "quantity": 1,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "white"
+            ]
+        },
+        "auger spree": {
+            "quantity": 4,
+            "foil": false,
+            "colors": [
+                "black",
+                "red"
+            ],
+            "saleValue": null
+        },
+        "sundering growth": {
+            "quantity": 5,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "green",
+                "white"
+            ]
+        },
+        "rakdos shred-freak": {
+            "quantity": 4,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "red"
+            ]
+        },
+        "golgari longlegs": {
+            "quantity": 8,
+            "foil": false,
+            "saleValue": null,
+            "colors": [
+                "black",
+                "green"
+            ]
+        }
+    },
+    "filterArrays": {
+        "black": [
+            "soul link",
+            "obzedat's aid",
+            "kingpin's pet",
+            "skull rend",
+            "drown in filth",
+            "llanowar dead",
+            "kaervek's purge",
+            "terminate",
+            "delirium",
+            "putrid warrior",
+            "deadbridge chant",
+            "ashen rider",
+            "pharika, god of affliction",
+            "vhati il-dal",
+            "rot farm skeleton",
+            "putrefy",
+            "treasured find",
+            "showstopper",
+            "rakdos charm",
+            "down || dirty",
+            "slitherhead",
+            "korozda guildmage",
+            "dark heart of the wood",
+            "kragma warcaller",
+            "ragemonger",
+            "maw of the obzedat",
+            "rakdos cackler",
+            "dromar's charm",
+            "bane alley broker",
+            "shipwreck singer",
+            "woodlot crawler",
+            "far || away",
+            "spite || malice",
+            "sleeper's robe",
+            "stalking assassin",
+            "siren of the silent song",
+            "dinrova horror",
+            "coerced confession",
+            "lobotomy",
+            "flooded woodlands",
+            "elemental augury",
+            "breathstealer's crypt",
+            "diabolic vision",
+            "beckon apparition",
+            "pilfered plans",
+            "deathcult rogue",
+            "psychic strike",
+            "dakkon blackblade",
+            "lim-dul's vault",
+            "lurking informant",
+            "sivitri scarzam",
+            "chromium",
+            "paranoid delusions",
+            "mortus strider",
+            "duskmantle guildmage",
+            "call of the nightwing",
+            "sentry of the underworld",
+            "death grasp",
+            "triad of fates",
+            "vizkopa guildmage",
+            "debt to the deathless",
+            "jarad's orders",
+            "sin collector",
+            "tymaret, the murder king",
+            "gift of orzhova",
+            "cryptborn horror",
+            "varolz, the scar-striped",
+            "lotleth troll",
+            "consume strength",
+            "purge the profane",
+            "trestle troll",
+            "corpsejack menace",
+            "pharika's mender",
+            "golgari charm",
+            "jarad, golgari lich lord",
+            "vraska the unseen",
+            "rites of reaping",
+            "spawn of rix maadi",
+            "sluiceway scorpion",
+            "auger spree",
+            "rakdos shred-freak",
+            "golgari longlegs",
+            "grisly salvage"
+        ],
+        "blue": [
+            "elusive krasis",
+            "dromar's charm",
+            "jelenn sphinx",
+            "restore the peace",
+            "bane alley broker",
+            "shipwreck singer",
+            "izzet staticaster",
+            "izzet charm",
+            "woodlot crawler",
+            "dracoplasm",
+            "fluxcharger",
+            "far || away",
+            "give || take",
+            "angelic shield",
+            "spite || malice",
+            "sleeper's robe",
+            "stand || deliver",
+            "glaciers",
+            "malignant growth",
+            "tobias andrion",
+            "goblin test pilot",
+            "thoughtflare",
+            "blast of genius",
+            "nivix guildmage",
+            "stalking assassin",
+            "siren of the silent song",
+            "mercurial chemister",
+            "biovisionary",
+            "biomass mutation",
+            "teleportal",
+            "urban evolution",
+            "ascended lawmage",
+            "dinrova horror",
+            "coerced confession",
+            "kiora's follower",
+            "species gorger",
+            "wings of aesthir",
+            "battlewise hoplite",
+            "lyev skyknight",
+            "skymark roc",
+            "lobotomy",
+            "flooded woodlands",
+            "elemental augury",
+            "ordered migration",
+            "sky spirit",
+            "judge's familiar",
+            "drogskol captain",
+            "breathstealer's crypt",
+            "diabolic vision",
+            "horizon chimera",
+            "wood sage",
+            "spellheart chimera",
+            "rubinia soulsinger",
+            "ephara's enlightenment",
+            "azorius charm",
+            "ayesha tanaka",
+            "pilfered plans",
+            "wings of hope",
+            "prismatic boon",
+            "drakewing krasis",
+            "search warrant",
+            "chemister's trick",
+            "essence backlash",
+            "nivix cyclops",
+            "hydroform",
+            "dramatic rescue",
+            "deathcult rogue",
+            "psychic strike",
+            "deputy of acquittals",
+            "goblin electomancer",
+            "dakkon blackblade",
+            "efreet weaponmaster",
+            "lim-dul's vault",
+            "harbor guardian",
+            "lurking informant",
+            "sivitri scarzam",
+            "arcades sabboth",
+            "chromium",
+            "shambleshark",
+            "frostburn weird",
+            "beetleform mage",
+            "blistercoil weird",
+            "bioshift",
+            "paranoid delusions",
+            "hussar patrol",
+            "mortus strider",
+            "duskmantle guildmage",
+            "call of the nightwing",
+            "vassal soul",
+            "new prahv guildmage"
+        ],
+        "colorless": [],
+        "foil": [],
+        "gold": [
+            "soul link",
+            "hymn of rebirth",
+            "obzedat's aid",
+            "kingpin's pet",
+            "skull rend",
+            "drown in filth",
+            "scarwood goblins",
+            "llanowar dead",
+            "segmented wurm",
+            "kaervek's purge",
+            "terminate",
+            "delirium",
+            "putrid warrior",
+            "deadbridge chant",
+            "ashen rider",
+            "pharika, god of affliction",
+            "fleecemane lion",
+            "vhati il-dal",
+            "voracious cobra",
+            "fires of yavimaya",
+            "yavimaya barbarian",
+            "feral animist",
+            "rot farm skeleton",
+            "vitu-ghazi guildmage",
+            "putrefy",
+            "wax || wane",
+            "risen sanctuary",
+            "skarrg guildmage",
+            "selesnya charm",
+            "truefire paladin",
+            "armed || dangerous",
+            "ground assault",
+            "treasured find",
+            "reap what is sown",
+            "showstopper",
+            "rakdos charm",
+            "down || dirty",
+            "akroan hoplite",
+            "slitherhead",
+            "korozda guildmage",
+            "sterling grove",
+            "dark heart of the wood",
+            "heroes' reunion",
+            "kragma warcaller",
+            "ragemonger",
+            "maw of the obzedat",
+            "chronicler of heroes",
+            "destructive revelry",
+            "rakdos cackler",
+            "elusive krasis",
+            "dromar's charm",
+            "jelenn sphinx",
+            "restore the peace",
+            "bane alley broker",
+            "shipwreck singer",
+            "izzet staticaster",
+            "izzet charm",
+            "woodlot crawler",
+            "dracoplasm",
+            "fluxcharger",
+            "far || away",
+            "give || take",
+            "angelic shield",
+            "spite || malice",
+            "sleeper's robe",
+            "stand || deliver",
+            "glaciers",
+            "malignant growth",
+            "tobias andrion",
+            "goblin test pilot",
+            "thoughtflare",
+            "blast of genius",
+            "nivix guildmage",
+            "stalking assassin",
+            "siren of the silent song",
+            "mercurial chemister",
+            "biovisionary",
+            "biomass mutation",
+            "teleportal",
+            "urban evolution",
+            "ascended lawmage",
+            "dinrova horror",
+            "coerced confession",
+            "kiora's follower",
+            "species gorger",
+            "wings of aesthir",
+            "battlewise hoplite",
+            "growing ranks",
+            "lyev skyknight",
+            "skymark roc",
+            "lobotomy",
+            "flooded woodlands",
+            "elemental augury",
+            "ordered migration",
+            "sky spirit",
+            "judge's familiar",
+            "drogskol captain",
+            "breathstealer's crypt",
+            "diabolic vision",
+            "horizon chimera",
+            "wood sage",
+            "spellheart chimera",
+            "rubinia soulsinger",
+            "ephara's enlightenment",
+            "azorius charm",
+            "beckon apparition",
+            "ayesha tanaka",
+            "pilfered plans",
+            "wings of hope",
+            "prismatic boon",
+            "drakewing krasis",
+            "search warrant",
+            "chemister's trick",
+            "essence backlash",
+            "nivix cyclops",
+            "hydroform",
+            "dramatic rescue",
+            "deathcult rogue",
+            "psychic strike",
+            "deputy of acquittals",
+            "goblin electomancer",
+            "dakkon blackblade",
+            "efreet weaponmaster",
+            "lim-dul's vault",
+            "harbor guardian",
+            "lurking informant",
+            "sivitri scarzam",
+            "arcades sabboth",
+            "chromium",
+            "shambleshark",
+            "frostburn weird",
+            "beetleform mage",
+            "blistercoil weird",
+            "bioshift",
+            "paranoid delusions",
+            "hussar patrol",
+            "mortus strider",
+            "duskmantle guildmage",
+            "call of the nightwing",
+            "vassal soul",
+            "sentry of the underworld",
+            "death grasp",
+            "triad of fates",
+            "anax and cymede",
+            "vizkopa guildmage",
+            "burning-tree emissary",
+            "debt to the deathless",
+            "loxodon smiter",
+            "jarad's orders",
+            "sin collector",
+            "tymaret, the murder king",
+            "new prahv guildmage",
+            "gift of orzhova",
+            "dryad militant",
+            "cryptborn horror",
+            "figure of destiny",
+            "varolz, the scar-striped",
+            "lotleth troll",
+            "clan defiance",
+            "consume strength",
+            "purge the profane",
+            "valley rannet",
+            "trestle troll",
+            "skyknight legionnaire",
+            "corpsejack menace",
+            "call of the conclave",
+            "pharika's mender",
+            "golgari charm",
+            "kjeldoran frostbeast",
+            "jarad, golgari lich lord",
+            "vraska the unseen",
+            "rites of reaping",
+            "alive || well",
+            "zhur-taa swine",
+            "common bond",
+            "zhur-taa druid",
+            "pit fight",
+            "courser's accord",
+            "spawn of rix maadi",
+            "martial glory",
+            "armored wolf-rider",
+            "centaur healer",
+            "sluiceway scorpion",
+            "auger spree",
+            "sundering growth",
+            "rakdos shred-freak",
+            "golgari longlegs",
+            "grisly salvage",
+            "primal visitation"
+        ],
+        "green": [
+            "hymn of rebirth",
+            "drown in filth",
+            "scarwood goblins",
+            "llanowar dead",
+            "segmented wurm",
+            "deadbridge chant",
+            "pharika, god of affliction",
+            "fleecemane lion",
+            "vhati il-dal",
+            "voracious cobra",
+            "fires of yavimaya",
+            "yavimaya barbarian",
+            "feral animist",
+            "rot farm skeleton",
+            "vitu-ghazi guildmage",
+            "putrefy",
+            "wax || wane",
+            "risen sanctuary",
+            "skarrg guildmage",
+            "selesnya charm",
+            "armed || dangerous",
+            "ground assault",
+            "treasured find",
+            "reap what is sown",
+            "down || dirty",
+            "slitherhead",
+            "korozda guildmage",
+            "sterling grove",
+            "dark heart of the wood",
+            "heroes' reunion",
+            "chronicler of heroes",
+            "destructive revelry",
+            "elusive krasis",
+            "give || take",
+            "malignant growth",
+            "biovisionary",
+            "biomass mutation",
+            "urban evolution",
+            "kiora's follower",
+            "species gorger",
+            "growing ranks",
+            "horizon chimera",
+            "wood sage",
+            "rubinia soulsinger",
+            "drakewing krasis",
+            "hydroform",
+            "arcades sabboth",
+            "shambleshark",
+            "beetleform mage",
+            "bioshift",
+            "burning-tree emissary",
+            "loxodon smiter",
+            "jarad's orders",
+            "dryad militant",
+            "varolz, the scar-striped",
+            "lotleth troll",
+            "clan defiance",
+            "consume strength",
+            "valley rannet",
+            "trestle troll",
+            "corpsejack menace",
+            "call of the conclave",
+            "pharika's mender",
+            "golgari charm",
+            "kjeldoran frostbeast",
+            "jarad, golgari lich lord",
+            "vraska the unseen",
+            "rites of reaping",
+            "alive || well",
+            "zhur-taa swine",
+            "common bond",
+            "zhur-taa druid",
+            "pit fight",
+            "courser's accord",
+            "armored wolf-rider",
+            "centaur healer",
+            "sluiceway scorpion",
+            "sundering growth",
+            "golgari longlegs",
+            "grisly salvage",
+            "primal visitation"
+        ],
+        "land": [],
+        "red": [
+            "skull rend",
+            "scarwood goblins",
+            "segmented wurm",
+            "kaervek's purge",
+            "terminate",
+            "delirium",
+            "voracious cobra",
+            "fires of yavimaya",
+            "yavimaya barbarian",
+            "feral animist",
+            "skarrg guildmage",
+            "truefire paladin",
+            "armed || dangerous",
+            "ground assault",
+            "showstopper",
+            "rakdos charm",
+            "akroan hoplite",
+            "kragma warcaller",
+            "ragemonger",
+            "destructive revelry",
+            "rakdos cackler",
+            "izzet staticaster",
+            "izzet charm",
+            "dracoplasm",
+            "fluxcharger",
+            "goblin test pilot",
+            "thoughtflare",
+            "blast of genius",
+            "nivix guildmage",
+            "mercurial chemister",
+            "teleportal",
+            "elemental augury",
+            "spellheart chimera",
+            "chemister's trick",
+            "essence backlash",
+            "nivix cyclops",
+            "goblin electomancer",
+            "efreet weaponmaster",
+            "frostburn weird",
+            "blistercoil weird",
+            "anax and cymede",
+            "burning-tree emissary",
+            "tymaret, the murder king",
+            "cryptborn horror",
+            "figure of destiny",
+            "clan defiance",
+            "valley rannet",
+            "skyknight legionnaire",
+            "zhur-taa swine",
+            "zhur-taa druid",
+            "pit fight",
+            "spawn of rix maadi",
+            "martial glory",
+            "auger spree",
+            "rakdos shred-freak",
+            "primal visitation"
+        ],
+        "white": [
+            "soul link",
+            "hymn of rebirth",
+            "obzedat's aid",
+            "kingpin's pet",
+            "putrid warrior",
+            "ashen rider",
+            "fleecemane lion",
+            "vitu-ghazi guildmage",
+            "wax || wane",
+            "risen sanctuary",
+            "selesnya charm",
+            "truefire paladin",
+            "reap what is sown",
+            "akroan hoplite",
+            "sterling grove",
+            "heroes' reunion",
+            "maw of the obzedat",
+            "chronicler of heroes",
+            "dromar's charm",
+            "jelenn sphinx",
+            "restore the peace",
+            "angelic shield",
+            "stand || deliver",
+            "glaciers",
+            "tobias andrion",
+            "ascended lawmage",
+            "wings of aesthir",
+            "battlewise hoplite",
+            "growing ranks",
+            "lyev skyknight",
+            "skymark roc",
+            "ordered migration",
+            "sky spirit",
+            "judge's familiar",
+            "drogskol captain",
+            "rubinia soulsinger",
+            "ephara's enlightenment",
+            "azorius charm",
+            "beckon apparition",
+            "ayesha tanaka",
+            "wings of hope",
+            "prismatic boon",
+            "search warrant",
+            "dramatic rescue",
+            "deputy of acquittals",
+            "dakkon blackblade",
+            "efreet weaponmaster",
+            "harbor guardian",
+            "arcades sabboth",
+            "chromium",
+            "hussar patrol",
+            "vassal soul",
+            "sentry of the underworld",
+            "death grasp",
+            "triad of fates",
+            "anax and cymede",
+            "vizkopa guildmage",
+            "debt to the deathless",
+            "loxodon smiter",
+            "sin collector",
+            "new prahv guildmage",
+            "gift of orzhova",
+            "dryad militant",
+            "figure of destiny",
+            "purge the profane",
+            "skyknight legionnaire",
+            "call of the conclave",
+            "kjeldoran frostbeast",
+            "alive || well",
+            "common bond",
+            "courser's accord",
+            "martial glory",
+            "armored wolf-rider",
+            "centaur healer",
+            "sundering growth"
+        ]
+    }
+}
